@@ -1,0 +1,45 @@
+.navigation{
+    list-style-position: inside;
+    text-align: center;
+}
+
+body{
+    background-color: #FAECD6;
+}
+
+h1{
+    color: #820000;
+}
+
+h2{
+    color: #5F8D4E; 
+}
+
+p{
+    color:darkslategray;
+}
+
+ol{
+    background-color: #fee9cb;
+    padding: 15px;
+    margin-left:30px;
+}
+
+.monospace{
+    color:darkslategrey;
+    font-weight:bolder;
+    font-family:monospace;
+    font-size:15px;
+    
+}
+
+#belizYorumlar{
+    font-size:large;
+    font-weight: bolder;
+    font-style:oblique;
+}
+
+#giris-article{
+    text-align:center;
+}
+
